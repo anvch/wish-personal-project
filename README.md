@@ -7,3 +7,14 @@ Ella Yam
 Sofija Dimitrijevic   
 Hayley Macdonald   
 Ally Stauffer
+
+
+Git commands:
+
+git status
+git pull
+git checkout (-b)
+git add .
+git commit -m “[message]”
+git push
+git merge
