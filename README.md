@@ -5,5 +5,7 @@ A repo to help WISH members get started with git!
 Angela Chen   
 Ella Yam   
 Sofija Dimitrijevic   
+Hayley MacDonald   
+Emily Cea
 Hayley Macdonald   
 Ally Stauffer
