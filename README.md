@@ -7,3 +7,4 @@ Ella Yam
 Sofija Dimitrijevic   
 Hayley Macdonald   
 Ally Stauffer
+Holly Campbell
