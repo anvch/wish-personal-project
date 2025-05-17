@@ -6,5 +6,6 @@ Angela Chen
 Ella Yam   
 Sofija Dimitrijevic   
 Hayley MacDonald   
-
 Emily Cea
+Hayley Macdonald   
+Ally Stauffer
