@@ -8,3 +8,4 @@ Sofija Dimitrijevic
 Hayley Macdonald   
 Ally Stauffer
 Holly Campbell
+Laura Zhu
